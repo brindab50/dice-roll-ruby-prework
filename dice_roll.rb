@@ -1,3 +1,3 @@
 def roll
-myArray[rand(myarray.length)]
+item = myArray[rand(myarray.length)]
 end
